@@ -1,3 +1,3 @@
-# Archipelago
+# OUTDATED
 
-Geode mod which adds Archipelago support to Geometry Dash. It's currently very WIP, as no actual Archipelago features have been implemented yet.
+You're looking for https://github.com/Tiago1257/ArchipelagoGD2
